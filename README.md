@@ -4,14 +4,14 @@ Simple To Do:
 
 Setup Simple Index.html
 	1. Setup Side Bar
-		- Home
-		- Profile
+	
+	- Home
+	- Profile
 		- Post
 		- My Post
 		- Inbox 
 		- Browse Tutors
 		- Favorites
-
 
 		- Settings 
 		- Sign In (or Sign Out)
